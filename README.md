@@ -1,3 +1,3 @@
 # WebClock
 
-Live preview: rawgit.com/djlastnight/WebClock/master/index.html
+<a href="rawgit.com/djlastnight/WebClock/master/index.html">Live preview</a>
