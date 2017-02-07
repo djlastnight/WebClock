@@ -1,3 +1,3 @@
 # WebClock
 
-<a href="www.rawgit.com/djlastnight/WebClock/master/index.html" target="_blank">Live preview</a>
+<a href="https://rawgit.com/djlastnight/webclock/master/index.html" target="_blank">Live preview</a>
